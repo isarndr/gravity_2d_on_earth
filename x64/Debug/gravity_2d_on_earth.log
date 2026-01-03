@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\isara\OneDrive\Desktop\cpp\gravity_2d_on_earth\gravity_2d_on_earth\main.cpp(75,54): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\isara\OneDrive\Desktop\cpp\gravity_2d_on_earth\gravity_2d_on_earth\main.cpp(75,40): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\isara\OneDrive\Desktop\cpp\gravity_2d_on_earth\gravity_2d_on_earth\main.cpp(80,33): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+C:\Users\isara\OneDrive\Desktop\cpp\gravity_2d_on_earth\gravity_2d_on_earth\main.cpp(80,19): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+  gravity_2d_on_earth.vcxproj -> C:\Users\isara\OneDrive\Desktop\cpp\gravity_2d_on_earth\x64\Debug\gravity_2d_on_earth.exe
